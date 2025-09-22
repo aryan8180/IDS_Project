@@ -1,4 +1,9 @@
-scapy==2.4.5
-scikit-learn==1.0.2
-pandas==1.3.5
-numpy==1.21.6
+scapy
+pandas
+numpy
+scikit-learn
+joblib
+flask
+sqlalchemy
+python-dateutil
+psutil
